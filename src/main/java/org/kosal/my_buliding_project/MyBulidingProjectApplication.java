@@ -10,6 +10,8 @@ public class MyBulidingProjectApplication {
 
 
 		SpringApplication.run(MyBulidingProjectApplication.class, args);
+		int a=7;
+		int b=10;
 	}
 
 }
