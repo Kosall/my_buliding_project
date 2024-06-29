@@ -8,8 +8,8 @@ public class MyBulidingProjectApplication {
 
 	public static void main(String[] args) {
 
-
-		SpringApplication.run(MyBulidingProjectApplication.class, args);
+			SpringApplication.run(MyBulidingProjectApplication.class, args);
+		
 	}
 
 }
